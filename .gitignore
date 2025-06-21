@@ -1,2 +1,3 @@
 # excluding executable output files
 *.out
+main
